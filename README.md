@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Damiilol
+- 👋 Hi, I’m @Damiilola
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning R,Python and SQL
 - 💞️ I’m looking to collaborate on Data Analytics projects
